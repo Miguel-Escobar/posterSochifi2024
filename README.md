@@ -1,7 +1,4 @@
 # Neurons don't get along! - Poster for SOCHIFI 2024 symposium.
-
-<object data="PosterCopy.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="PosterCopy.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it.</p>
-    </embed>
+<object width="400" height="500" type="application/pdf" data="/PosterCopy.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>PDF cannot be displayed.</p>
 </object>
